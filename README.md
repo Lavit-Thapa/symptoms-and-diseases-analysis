@@ -3,7 +3,7 @@
 This project applies the **K-Nearest Neighbors (KNN)** algorithm to classify diseases based on a wide range of symptoms. The goal is to build an interpretable and scalable model that can assist in early-stage clinical diagnosis.
 
 ## 🔍 Problem Statement
-Given a dataset with 349 features (symptoms) and 41 distinct disease classes, the objective is to accurately predict the disease category based on observed patient symptoms.
+Given a dataset with 17 features (349 symptoms) and 41 distinct disease classes, the objective is to accurately predict the disease category based on observed patient symptoms.
 
 ## 📊 Dataset
 - **File**: `dataset.csv`
